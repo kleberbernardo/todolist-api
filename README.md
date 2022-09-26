@@ -6,13 +6,28 @@
 
 Esse é um projeto de API Rest Full, feito em NestJs.
 
-## Intalação
+### :space_invader: Tecnologias utilizadas
+
+Nesse projeto utilizei algumas tecnologias de base, são elas:
+
+- [x] NestJs
+- [x] TypeScript
+- [x] Code Style: Eslint (Airbnb) e Prettier
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- NodeJs instalado.
+- Uma boa IDE. Recomendo VS CODE.
+
+## 🚀 Instalando a API
 
 ```bash
 $ npm install
 ```
 
-## Subindo API
+## ☕ Usando a API
 
 ```bash
 # development
@@ -25,6 +40,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## License
+## 📝 Licença
 
-Nest is [MIT licensed](LICENSE).
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#todolist)<br>
