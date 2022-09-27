@@ -1,3 +1,11 @@
+# Todolist-api
+
+![GitHub repo size](https://img.shields.io/github/repo-size/kleberbernardo/todolist-api?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/kleberbernardo/todolist-api?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/kleberbernardo/todolist-api?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/kleberbernardo/todolist-api?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/kleberbernardo/todolist-api?style=for-the-badge)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
